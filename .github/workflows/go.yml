@@ -26,6 +26,3 @@ jobs:
 
     - name: Build
       run: go build -v .
-  
-    - name: Run
-      run: ./go_export
